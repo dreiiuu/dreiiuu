@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Andrei R. Santos, currently a 2nd year student at TIPQC.</p>
+<p align="left">I am Andrei R. Santos, currently a 3rd year student at TIPQC.</p>
 
 ###
 
