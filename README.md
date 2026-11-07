@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I am Andrei R. Santos, currently a 3rd year student at TIPQC.</p>
+<p align="left">I am Andrei R. Santos, currently a 4th year student at TIPQC.</p>
 
 ###
 
-<p align="left">- 👋 Hi, I’m @dreiiuu<br>- 🎯 Goals: To learn different programming languages <br>- 👀 I’m interested in ... Coding, Plants, and Music. <br>- 🌱 I’m currently learning Python and C#.<br>-  🌱 I’m also currently learning German, French, and Chinese.<br>- 💞️ I’m not looking to collaborate as of now.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I do multitask; I am flexible in tasks.</p>
+<p align="left">- 👋 Hi, I’m @dreiiuu<br>- 🎯 Goals: To learn different programming languages <br>- 👀 I’m interested in ... Coding, Plants, and Music. <br>- 🌱 I’m currently learning Python and C#.<br>-  🌱 I’m also currently learning German and French.<br>- 💞️ I’m not looking to collaborate as of now.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I do multitask; I am flexible in tasks.</p>
 
 ###
 
